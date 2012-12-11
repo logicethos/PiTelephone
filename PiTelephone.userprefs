@@ -1,0 +1,24 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PiTelephone/Program.cs">
+    <Files>
+      <File FileName="PiTelephone/Program.cs" Line="11" Column="22" />
+      <File FileName="PiTelephone/Skype/ISkypeInterface.cs" Line="18" Column="2" />
+      <File FileName="PiTelephone/Skype/clsSkypeClient.cs" Line="48" Column="6" />
+      <File FileName="PiTelephone/clsDialHookListener.cs" Line="44" Column="1" />
+      <File FileName="PiTelephone/app.config" Line="1" Column="1" />
+      <File FileName="PiTelephone/clsRinger.cs" Line="34" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="PiTelephone" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
